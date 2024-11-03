@@ -69,10 +69,10 @@ class Blockchain:
             if hash_operation[:4] != "0000":
                 return False
             previous_block = block
-            block_index != 1
+            block_index != 1;
 
-
-# ใช้งาน Blockchain
+ 
+# ใช้งาน Blockchain 
 blockchain = Blockchain()
 
 app = Flask(__name__)
